@@ -27,6 +27,10 @@
 				<string>fix_focus.js</string>
 				<string>safari_js_loader.js</string>
 			</array>
+			<key>Start</key>
+			<array>
+				<string>start_script.js</string>
+			</array>
 		</dict>
 	</dict>
 	<key>Description</key>
