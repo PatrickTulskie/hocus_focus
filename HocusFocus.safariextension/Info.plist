@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Patrick Tulskie</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>8536.28.10</string>
 	<key>CFBundleDisplayName</key>
 	<string>HocusFocus</string>
 	<key>CFBundleIdentifier</key>
@@ -22,11 +22,6 @@
 	<dict>
 		<key>Scripts</key>
 		<dict>
-			<key>End</key>
-			<array>
-				<string>fix_focus.js</string>
-				<string>safari_js_loader.js</string>
-			</array>
 			<key>Start</key>
 			<array>
 				<string>start_script.js</string>
@@ -47,5 +42,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/patricktulskie/hocus_focus</string>
 </dict>
 </plist>
