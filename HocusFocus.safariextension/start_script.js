@@ -16,5 +16,7 @@ var HocusFocus = function() {
   }
 }
 
-// Fire away!
-new HocusFocus().forceFocus();
+// Prevent any focus switching if we're not in the parent frame
+if (window.location == window.parent.location) {
+  new HocusFocus().forceFocus();
+}
