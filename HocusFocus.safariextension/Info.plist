@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Patrick Tulskie</string>
 	<key>Builder Version</key>
-	<string>9537.75.10</string>
+	<string>10600.2.5</string>
 	<key>CFBundleDisplayName</key>
 	<string>HocusFocus</string>
 	<key>CFBundleIdentifier</key>
@@ -30,6 +30,8 @@
 	</dict>
 	<key>Description</key>
 	<string>Force Safari to refocus the webview after a search.</string>
+	<key>DeveloperIdentifier</key>
+	<string>HQYE4QKBS2</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
